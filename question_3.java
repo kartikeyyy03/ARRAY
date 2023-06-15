@@ -39,7 +39,7 @@ public class question_3 {
 
 
 
-    System.out.println(Even[N-1]);
+    
     Arrays.sort(Odd);
 
     for(int i=0;i<N;i++){
